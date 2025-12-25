@@ -23,7 +23,7 @@ React, Next, Zustand, Redux Toolkit
 Mapbox, Maplibre, Leaflet, Deck.gl, Turf.js, Tippecanoe, tileserver-gl
 
 **Visualization & UI**  
-ECharts, MUI, Tailwind, SASS, Shadcn, HeroUi, Antd
+MUI, Tailwind, SASS, Shadcn, HeroUi, Antd, Ag-grid, React-flow, ECharts
 
 **Backend & Data**  
 Node.js, Express, MongoDB, Docker, Linux, PostgreSQL, Sqlite, Mbtiles, Redis, Nginx
