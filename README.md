@@ -17,7 +17,7 @@ Focused on performant, scalable web apps, big-data visualization, and geospatial
 TypeScript, JavaScript
 
 **Frontend / State Management**  
-React, Zustand, Redux Toolkit, Next
+React, Next, Zustand, Redux Toolkit
 
 **Maps & GIS**  
 Mapbox, Maplibre, Leaflet, Deck.gl, Turf.js, Tippecanoe, tileserver-gl
@@ -26,10 +26,10 @@ Mapbox, Maplibre, Leaflet, Deck.gl, Turf.js, Tippecanoe, tileserver-gl
 ECharts, MUI, Tailwind, SASS, Shadcn, HeroUi, Antd
 
 **Backend & Data**  
-Node.js, Express, MongoDB, PostgreSQL, Sqlite, Mbtiles, Docker, Redis, Linux
+Node.js, Express, MongoDB, Docker, Linux, PostgreSQL, Sqlite, Mbtiles, Redis, Nginx
 
 **Other**  
-Git, Gitlab, Jira, AI Tools, Formik, Yup, Zod, react-hook-form, Nginx
+Git, Gitlab, Jira, AI Tools, Formik, Yup, Zod, React-hook-form
 
 ---
 
